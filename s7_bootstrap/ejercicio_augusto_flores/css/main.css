@@ -1,0 +1,21 @@
+.container{
+	border: 2px solid black;
+	background: purple;
+}
+
+.row{
+	background: gray;
+	padding: 10px;
+}
+
+.navbar .navbar-brand img{
+	width: 200px;
+}
+
+.cursor-pointer{
+	cursor: pointer;
+}
+
+.card-title{
+	color: red;
+}
