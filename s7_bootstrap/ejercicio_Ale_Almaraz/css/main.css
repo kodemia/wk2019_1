@@ -1,0 +1,51 @@
+.container {
+  border: 2px solid black;
+  background: purple;
+}
+
+.container-card {
+  height: 75vh;
+}
+.row {
+  background: gray;
+  padding: 10px;
+}
+
+.navbar .navbar-brand img {
+  width: 200px;
+}
+/* .card{
+height: 50vh;
+} */
+.card-title {
+  color: red;
+}
+
+main div.containerHead {
+  /* background-image: url(../img/bg-1.jpg);*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: linear-gradient(
+      to left,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 1)
+    ),
+    url(../img/bg-1.jpg);
+  width: 100vw;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.backg {
+  margin-left: 10%;
+}
+
+/* footer */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+footer .footer .social-wrapper img {
+  width: 25px;
+  filter: invert(1);
+}
